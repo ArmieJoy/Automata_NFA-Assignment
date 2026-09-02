@@ -15,4 +15,4 @@ It includes:
 ![alt text](Written_Assignment.jpg)
 
 ## Output
-![Automata DFA Example](image.png)
+![Automata DFA Example](image_output.png)
