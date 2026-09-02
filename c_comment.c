@@ -2,6 +2,7 @@
 #include <string.h>
 #include <stdbool.h>
 
+// Function to check if a string is a valid C-style comment
 bool isCComment(const char *str) {
     int len = strlen(str);
 
@@ -23,6 +24,12 @@ bool isCComment(const char *str) {
 }
 
 int main() {
+    printf("=====================================\n");
+    printf("   DFA/NFA Simulation: C-Style Comments\n");
+    printf("=====================================\n\n");
+
+    // --- Predefined test cases ---
+    printf(">> Running predefined test cases:\n");
     const char *tests[] = {
         "/*a*/", "/**/", "/***/", "/*aaa*aaa*/", "/*a/a*/",   // Accepted
         "/**", "/**/a/*aa*/", "aaa/**/aa", "/*/", "/**a/", "//aaaa" // Rejected
@@ -33,5 +40,18 @@ int main() {
         printf("%s -> %s\n", tests[i], isCComment(tests[i]) ? "ACCEPT" : "REJECT");
     }
 
+    // --- Interactive input ---
+    printf("\n>> Try your own input!\n");
+    char input[100];
+    printf("Enter a string: ");
+    scanf("%99s", input);
+
+    if (isCComment(input)) {
+        printf("Result: ACCEPT \n");
+    } else {
+        printf("Result: REJECT \n");
+    }
+
+    printf("\nProgram finished.\n");
     return 0;
 }
