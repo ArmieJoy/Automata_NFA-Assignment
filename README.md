@@ -12,7 +12,7 @@ It includes:
 - Sample test cases (Accepted/Rejected strings)
 
 ## Preview Assignment
-![alt text](Written_Assignment.jpg)
+![alt text](Written_Assignment-Final.jpg)
 
 ## Output
 ![Automata DFA Example](image_output.png)
