@@ -11,7 +11,7 @@ It includes:
 - C program implementation
 - Sample test cases (Accepted/Rejected strings)
 
-## Preview
+## Preview Assignment
 ![alt text](Written_Assignment.jpg)
 
 ## Output
