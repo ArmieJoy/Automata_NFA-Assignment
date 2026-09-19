@@ -19,28 +19,28 @@ It includes:
 - Validation using sample inputs to verify accepted and rejected strings
 
 ### Preview - Example 1 from the lesson
-![alt text](Minimization%20of%20DFA%20written%20solutions/Example#1_lesson_whiteboard.jpg)
+![alt text](Minimization%20of%20DFA%20written%20solutions/Example%231_lesson_whiteboard.jpg)
 
 ### Output - Example 1 from the lesson
-![alt text](Minimization%20of%20DFA%20outputs/Example#1_lesson_outputs.png)
+![alt text](Minimization%20of%20DFA%20Outputs/Example%231_lesson_outputs.png)
 
 ### Preview - Example 2 from the lesson
-![alt text](Minimization%20of%20DFA%20written%20solutions/Example#2_lesson_whiteboard.jpg)
+![alt text](Minimization%20of%20DFA%20written%20solutions/Example%232_lesson_whiteboard.jpg)
 
 ### Output - Example 2 from the lesson
-![alt text](Minimization%20of%20DFA%20outputs/Example#2_lesson_outputs.png)
+![alt text](Minimization%20of%20DFA%20Outputs/Example%232_lesson_outputs.png)
 
 ### Preview - Example 3 (My own Example)
-![alt text](Minimization%20of%20DFA%20written%20solutions/Example#3_myOwn_written.jpg)
+![alt text](Minimization%20of%20DFA%20written%20solutions/Example%233_myOwn_written.jpg)
 
 ### Output - Example 3 (My own Example)
-![alt text](Minimization%20of%20DFA%20outputs/Example#3_myOwn_outputs.png)
+![alt text](Minimization%20of%20DFA%20Outputs/Example%233_myOwn_outputs.png)
 
 ### Preview - Example 4 (My own Example)
-![alt text](Minimization%20of%20DFA%20written%20solutions/Example#4_myOwn_written.jpg)
+![alt text](Minimization%20of%20DFA%20written%20solutions/Example%234_myOwn_written.jpg)
 
 ### Output - Example 4 (My own Example)
-![alt text](Minimization%20of%20DFA%20outputs/Example#4_myOwn_outputs.png)
+![alt text](Minimization%20of%20DFA%20Outputs/Example%234_myOwn_outputs.png)
 
 ---
 
