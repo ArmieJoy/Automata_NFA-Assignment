@@ -7,7 +7,7 @@ This repository contains my assignments for Automata Theory.
 
 ---
 
-## Assignment: Minimization of DFA
+## Assignment #2: Minimization of DFA (New)
 **Date:** 09/20/2026
 
 ### Description
@@ -18,13 +18,13 @@ It includes:
 - The resulting Minimized Transition Table and Minimized DFA Graph
 - Validation using sample inputs to verify accepted and rejected strings
 
-### Preview - Example 1 from the lesson
+### Preview - Example 1 from the lesson (White Board)
 ![alt text](Minimization%20of%20DFA%20written%20solutions/Example%231_lesson_whiteboard.jpg)
 
 ### Output - Example 1 from the lesson
 ![alt text](Minimization%20of%20DFA%20Outputs/Example%231_lesson_outputs.png)
 
-### Preview - Example 2 from the lesson
+### Preview - Example 2 from the lesson (White Board)
 ![alt text](Minimization%20of%20DFA%20written%20solutions/Example%232_lesson_whiteboard.jpg)
 
 ### Output - Example 2 from the lesson
@@ -44,7 +44,7 @@ It includes:
 
 ---
 
-## Assignment: NFA/DFA Simulation for C-style Comments
+## Assignment #1: NFA/DFA Simulation for C-style Comments (Last Assignment - Written (Passed))
 **Date:** 09/08/2026
 
 ### Description
